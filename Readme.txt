@@ -14,7 +14,14 @@ This is a "beta" version. Please email the author at schweinhart.2@osu.edu if yo
 
 CITATIONS:
 
-If you use the option to classify neighborhoods up to graph isomorphism, cite the 2016 paper and paper "Practical Graph Isomorphism, II" by McKay and Piperno (for the Nauty graph isomorphism library).
+If you use this code, cite both the 2016 and 2019 papers: 
+
+@Unpublished{2019schweinhart,
+  author = {Schweinhart, B. AND Rodney, D. AND Mason, J. K.},
+  title  = {Statistical Topology of Bond Networks with Applications to Silica},
+  note   = {arXiv:1910.05842},
+  year   = {2019},
+}
 
 @Article{2016schweinhart,
   author    = {Schweinhart, B and Mason, J. K. and MacPherson, R. D.},
@@ -23,10 +30,10 @@ If you use the option to classify neighborhoods up to graph isomorphism, cite th
   year      = {2016},
   volume    = {93},
   number    = {6},
-  pages     = {062111},
   publisher = {APS},
 }
 
+If you use the option to classify neighborhoods up to graph isomorphism, also cite  "Practical Graph Isomorphism, II" by McKay and Piperno (for the Nauty graph isomorphism library):
 
 @Article{2014mckay,
   author  = {McKay, B. D. and Piperno, A.},
@@ -38,14 +45,7 @@ If you use the option to classify neighborhoods up to graph isomorphism, cite th
 }
 
 
-Otherwise, cite the 2016 article and the 2019 article:
 
-@Unpublished{2019schweinhart,
-  author = {Schweinhart, B. AND Rodney, D. AND Mason, J. K.},
-  title  = {Statistical Topology of Bond Networks with Applications to Silica},
-  note   = {arXiv:1910.05842},
-  year   = {2019},
-}
 
 
 DEPENDENCIES:
