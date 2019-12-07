@@ -1,4 +1,4 @@
-Swatches: Local Structure Classification in Graphs
+Swatches: Local Structure Classification in Graphs (beta)
 
 DEVELOPER: Benjamin Schweinhart (schweinhart.2@osu.edu)
 DATE: December 7, 2019
