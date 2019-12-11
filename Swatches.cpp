@@ -106,7 +106,7 @@ int main(int argc, char** argv) {
 		cout<<"Computing the empirical distribution for file "<<i<<endl;
 		cloth->computeDistribution(curGraph);
 	}
-	cout<<endl<<"Computation complete."<<endl;
+	cout<<endl<<"Computation complete."<<endl<<endl;
 
 	if (outname==""){outname=dataFiles[0];}
 
