@@ -12,6 +12,7 @@ The software can be run from the command line as described below or by including
 
 This is a "beta" version. Please email the author at schweinhart.2@osu.edu if you experience any errors, or have any questions/comments/requests for additional functionality.
 
+This material is  based upon work supported by a NSF Mathematical Sciences Postdoctoral Research Fellowship under award number DMS-1606259.
 
 CITATIONS:
 
